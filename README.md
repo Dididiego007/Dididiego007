@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2000&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1!%F0%9F%91%8B;Sou+Diego+Xavier!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=F7F7F7&background=FF000000&center=true&vCenter=true&width=435&lines=Ol%C3%A1!%F0%9F%91%8B;Sou+Diego+Xavier+Siqueira!;Seja+Bem+vindo(a)!)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-xavier11012)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5564999513906)
