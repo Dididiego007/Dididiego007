@@ -1,4 +1,4 @@
-### Olá ! Eu sou o Diego Xavier 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2000&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1!%F0%9F%91%8B;Sou+Diego+Xavier!)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-xavier11012)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5564999513906)
@@ -7,7 +7,7 @@
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego&show_icons=true&theme=transparent)
 
 
-## Tecnologias que eu uso
+## Tecnologias que uso:
 
 <div style="display: inline_block">
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
